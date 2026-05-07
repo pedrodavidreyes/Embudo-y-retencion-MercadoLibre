@@ -62,7 +62,9 @@ Se simuló una recuperación del **15% del drop-off** en la etapa crítica `sele
 | Contexto | Hallazgo | Implicación |
 |---|---|---|
 | Entre enero y agosto de 2025 se analizó la tasa de conversión entre cada etapa clave del embudo. | Conversión general: **76.9%** en `select_item`, **11.0%** en `add_to_cart`, **4.0%** en `begin_checkout`, **2.4%** en `add_shipping_info`, **2.1%** en `add_payment_info` y **1.3%** en `purchase`. | La mayor oportunidad está entre `select_item` y `add_to_cart`. Optimizar esta etapa genera impacto en todo el flujo posterior. |
-
+<div align="center">
+<img src="https://github.com/pedrodavidreyes/Embudo-y-retencion-MercadoLibre/blob/imagenes/embudo2.png?raw=true" width="80%">
+</div>
 ### 2. Principal punto de fuga
 
 | Contexto | Hallazgo | Implicación |
